@@ -93,9 +93,11 @@ curl -X POST http://<IP_PUBLICO_EC2>/pedidos \
 🧹 Encerramento e Destruição de Recursos
 Para eliminar todos os recursos criados na AWS e evitar custos na conta após a validação:
 terraform destroy -auto-approve
- <img width="980" height="910" alt="CAPTURA 1" src="https://github.com/user-attachments/assets/d04d1a56-1d02-400f-a5da-ea22fcaa002d" />
 
-<img width="719" height="648" alt="CAPTURA 2" src="https://github.com/user-attachments/assets/6f7dd0eb-6d6d-4c50-ab27-07b372a5edd3" />
-<img width="956" height="876" alt="CAPTURA 3" src="https://github.com/user-attachments/assets/95de3de6-5343-439a-b99d-4f4b18c3a66b" />
+<img width="2136" height="1984" alt="image" src="https://github.com/user-attachments/assets/4738bc98-138e-4bb5-a48b-362d834d23a9" />
 
-<img width="963" height="808" alt="CAPTURA 4" src="https://github.com/user-attachments/assets/499688b6-d48e-4caf-826d-a66d4d46b028" />
+<img width="719" height="648" alt="image" src="https://github.com/user-attachments/assets/2513b93a-4b23-4094-ab69-1fc043d1fb26" />
+
+<img width="2166" height="1984" alt="image" src="https://github.com/user-attachments/assets/4bf63e6b-e398-4fa4-9669-fb1d60369f5f" />
+
+<img width="2250" height="1888" alt="image" src="https://github.com/user-attachments/assets/ac3a947d-b52f-4863-85c5-aac0db5b81ff" />
